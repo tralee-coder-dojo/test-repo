@@ -27,6 +27,7 @@ W
 X
 Y
 Z
+,
 NOW
 I
 KNOW
